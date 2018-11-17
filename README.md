@@ -36,6 +36,7 @@ Don't forgot to initially create a `virtualenv`.
 - Run `cd assignment`.
 - Run python script using command - `python3 taskthree.py`
 - List converted to set using type conversion.
-- Set intersection property is used to get the common elements in both the list
+- Set intersection property is used to get the common elements in both the set and converted back
+  to list using type conversion.
 - Set subtraction property is used to get the elements only in l1 not in l2.
 
